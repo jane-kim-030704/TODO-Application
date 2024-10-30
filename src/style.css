@@ -1,0 +1,66 @@
+body {
+  margin: 0;
+}
+
+#snackbar{
+  opacity: 0.8;
+}
+
+.tool{
+  background-color: #166CC2;
+  font-family: Lato;
+}
+
+.barContainer {
+  flex-grow: 1;
+}
+
+.menuBox {
+  display: flex;
+  flex-grow: 1;
+  align-items: center;
+  justify-content: center;
+}
+
+span {
+  font-size: 1.5rem; 
+  font-weight: 400; 
+  line-height: 1.334;
+  letter-spacing: 0em;
+  margin-left: 8px; 
+  font-family: 'Roboto', 'Helvetica', 'Arial', sans-serif;
+}
+
+.addButtonBox {
+  position: absolute;
+  right: 16px;
+}
+
+.entry {
+  width: 100%; 
+  margin: 8px; 
+  
+}
+
+.mainTable{
+  min-width: 650px; 
+  width: 100%; 
+}
+
+.atCenter{
+  text-align: center !important;
+  justify-content: center !important;
+}
+.actionButton {
+  margin: 0 8px; 
+}
+
+.marginLeft {
+  margin-left: 16px;
+}
+
+.spacing {
+  margin-bottom: 20px !important;
+}
+
+
